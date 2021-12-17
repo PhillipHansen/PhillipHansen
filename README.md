@@ -1,4 +1,4 @@
-- Hi, I’m @PhillipHansen
+Hi, I’m @PhillipHansen
 - My educational background:
 -   Bachelor's in Computer Science from UNI located in Cedar Falls, Iowa (Fall 2019 - Fall 2021, GPA: 3.450)
 -   Associate's in Software Development from Kirkwood located in Cedar Rapids, Iowa (Fall 2017 - Spring 2019, GPA: 3.670)
